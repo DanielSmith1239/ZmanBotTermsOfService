@@ -1,4 +1,4 @@
-# Privacy Policy
+# ZmanBot Privacy Policy
 Last updated: August 24, 2016
 
 ZmanBot ("us", "we", or "our") operates the https://www.facebook.com/ZmanBot/ website (the "Service").
