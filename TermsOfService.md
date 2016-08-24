@@ -1,4 +1,4 @@
-# ZmanBotTermsOfService
+# ZmanBot Terms Of Service
 
 Last updated: August 24, 2016
 
